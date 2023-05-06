@@ -10,3 +10,4 @@ git config --global user.name "Bill Wilder"
 git config --global user.email "codingoutloud@gmail.com"
 git config --list
 
+AZURE: ACTIVITY LOG in VS Code may have interesting context if issues creating Azure resources.
